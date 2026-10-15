@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(to bottom, #87ceeb, #f0f8ff);
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  .card {
+    border: none;
+    background: #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #weather-icon {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .alert {
+    margin-top: 10px;
+  }
+  
