@@ -220,7 +220,7 @@ window.displayWeather = function (data) {
 ## Credits
 
 - Original app, and this repository's code: Taha Kiani. The app was first built as part of [my portfolio website](https://tahak.fun).
-- Claude (Anthropic's AI assistant) was used to split this project into its own repository, separate from the website, Taha created the README and the license.
+- Claude (Anthropic's AI assistant) was used to split this project into its own repository, separate from the website, I created the README and chose the [license](https://github.com/tahazkiani/weather-app/blob/6a215c61ced7bba0155673c723942edf0aa393d6/LICENSE).
 - Weather data: [OpenWeatherMap](https://openweathermap.org/api).
 - Styling: [Bootstrap](https://getbootstrap.com/).
 - README structure: the [Standard Readme](https://github.com/RichardLitt/standard-readme) specification and the course README specification. The [HTTPie README](https://github.com/httpie/httpie) was my example of a good README.
