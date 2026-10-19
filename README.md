@@ -4,8 +4,6 @@ A small web page that shows the current weather for a city, for people who want 
 
 You type a city name and the page shows the temperature, a short description, humidity and wind speed. A button switches the temperature between °C and °F. It is plain HTML, CSS and JavaScript, so there is nothing to build. It gets its data from the [OpenWeatherMap](https://openweathermap.org/api) API, so you need your own free API key before it will show any weather.
 
-This project has no `package.json` or `pyproject.toml`. The name `weather-app` is the name of this repository. There is no command called `weather-app`. You open `index.html` in a browser. A hosted copy is part of my portfolio at [tahak.fun/weather-app](https://tahak.fun/weather-app/).
-
 ## Table of Contents
 
 - [Install](#install)
@@ -68,6 +66,7 @@ You do need an API key. Sign up at <https://openweathermap.org/api>. A new key c
 
 ## Usage
 
+This project has no `package.json` or `pyproject.toml`. The name `weather-app` is the name of this repository. There is no command called `weather-app`. You open `index.html` in a browser. A hosted copy is part of my portfolio at [tahak.fun/weather-app](https://tahak.fun/weather-app/).
 The easiest way to start is to double-click `index.html`, or open it from your browser's File menu. The page works from a file. If you would rather serve the folder, the next section shows how.
 
 Once the page is open, type a city name such as `Boston` and press **Get Weather**. The page fills in the city name, temperature, description, humidity, wind speed and an icon. Press **Switch to °F** to change units. The button only changes how the number is shown. It does not make a new request.
